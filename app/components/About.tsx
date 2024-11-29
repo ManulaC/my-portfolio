@@ -38,7 +38,7 @@ export default function About() {
           </div>
           <div className="md:w-2/3">
             <p className="text-gray-300 leading-relaxed mb-8">
-              I am an enthusiastic and driven Computer Science and Electrical & Electronics Engineering student with a passion for turning innovative ideas into reality. An extrovert by nature, I thrive in dynamic environments that challenge my problem-solving skills and push me to learn and grow. I value integrity, teamwork, and hard work, and I'm always on the lookout for opportunities to make an impact through technology. Whether it's designing complex systems, tackling tough challenges, or leading a team to success, I approach every endeavor with curiosity and determination.
+              I am an enthusiastic and driven Computer Science and Electrical & Electronics Engineering student with a passion for turning innovative ideas into reality. An extrovert by nature, I thrive in dynamic environments that challenge my problem-solving skills and push me to learn and grow. I value integrity, teamwork, and hard work, and I&apos;m always on the lookout for opportunities to make an impact through technology. Whether it's designing complex systems, tackling tough challenges, or leading a team to success, I approach every endeavor with curiosity and determination.
             </p>
           </div>
         </div>

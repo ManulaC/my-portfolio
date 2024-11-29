@@ -17,7 +17,7 @@ export default function Hero() {
           animate={{ scale: 1 }}
           transition={{ delay: 0.5, type: 'spring', stiffness: 200 }}
         >
-          Hello, I'm <span className="text-blue-400">Manula Cooray</span>
+          Hello, I&apos;m <span className="text-blue-400">Manula Cooray</span>
         </motion.h1>
         <motion.p
           className="text-2xl text-gray-300"
